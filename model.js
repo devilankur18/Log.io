@@ -19,11 +19,8 @@
             ip:''
         },
         intialize:function(){
-        },
-        
-        restoreUserAgent: function(){
-            alert("Welcome to this world");
         }
+        
   });
   userAgent = Backbone.Model.extend({
       defaults:{
